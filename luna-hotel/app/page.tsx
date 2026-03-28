@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-export default function Home() {
-  return (
-    <main className="flex min-h-screen items-center justify-center bg-blue-50">
-      <h1 className="text-4xl font-bold text-blue-600">Xin chào Luna Hotel!</h1>
-    </main>
-  );
-}
-=======
 import Image from "next/image";
 
 export default function Home() {
@@ -72,4 +63,3 @@ export default function Home() {
     </div>
   );
 }
->>>>>>> 228b48194a9ba76fb5aa80617ef4ea1894f53bcc
